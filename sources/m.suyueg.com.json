@@ -1,9 +1,9 @@
 {
-    "name": "速阅阁",
-    "url": "m.suyueg.com",
-    "version": 103,
+    "name": "123读",
+    "url": "m.123duw.com",
+    "version": 100,
     "search": {
-        "url": "http://m.suyueg.com/s.php@post->s=${key}&type=articlename",
+        "url": "http://m.123duw.com/sscc/?s=${key}",
         "charset": "gbk",
         "list": ".sone",
         "name": ".sone > a",
